@@ -9,6 +9,11 @@ Going out regularly will help your body to get ready for the colder time. Dress 
 It has been proved by several studies (and it is my experience as well) that stress weakens your immune system. Stress and anxiety are not the best combo, it's actually the best way to get sick or end up with burnout syndrome. Find time to clear your mind. Sitting by the lake or by the river is my favourtie activity. Relaxing with cup of hot chocolate or an Earl Gray tea is the second best :-). Try to find by yourself and ask yourself how do you feel. You might realize that there are some things bothering you and think them through. Some people might prefer sharing the struggles with a friend.
 
 3. Enjoy seasonal fruits
+If you can get fresh seasonal fruits that's best. Most of the apples taste best right after you pick them. This way most of the vitamins and good elements are preserved. Freshly squeezed apple juice is also great, get some if you can. Many orchards owners make it from the apples that are not nice enough for the sale. You might have other autumn fruits in your country, pears, plums, prunes it all depends on the clima. If you live in a big city it might be challenging but taking weekend a trip out of the city to munch on some fresh fruits might be worth it. But do mind your food allergies if you have any!
+
+
+
+
 
 
  
