@@ -34,7 +34,7 @@ fieldman="C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe" "C
     \Users\marek\Documents\Documentation\manuals\field-manual.pdf"
 ```
 *Fast searching with fzf*
-Yes fzf can work in Cmder too. You can use it for fast command line shell. If you do no know fzf, check the project git here: https://github.com/junegunn/fzf . Windows binaries can be found in the project releases page here: https://github.com/junegunn/fzf-bin/releases . You have two ways how to install the fzf. Simple way is just to copy fzf.exe to the Cmder bin folder. Every binary in that folder will be automatically added to the Cmder PATH variable. Second way is to downlod it somwhere else and then adding following line to your profile file. Let's assume you have cloned the fzf to the Apps directory in your Documents (it is assumed that you have folder fzf there which contains file fzf.exe):
+Yes fzf can work in Cmder too. You can use it for fast command line shell. If you don't know fzf, check the project git here: https://github.com/junegunn/fzf . Windows binaries can be found in the project releases page here: https://github.com/junegunn/fzf-bin/releases . You have two ways how to install the fzf. Simple way is just to copy fzf.exe to the Cmder bin folder. Every binary in that folder will be automatically added to the Cmder PATH variable. Second way is to downlod it somwhere else and then adding following line to your profile file. Let's assume you have cloned the fzf to the Apps directory in your Documents (it is assumed that you have folder fzf there which contains file fzf.exe):
 ```
 set "PATH=%USERPROFILE%\Documents\Apps\fzf;%PATH%"
 ```
