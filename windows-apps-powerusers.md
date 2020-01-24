@@ -1,7 +1,7 @@
 If you like your Windows workstation or you are forced to use Windows by your employer, here are some apps that can boost your productivity and effectiveness. Most of these tools are free and open source or at least have some type of free version available. I have tested these apps under Windows 7 and Windows 10 (with the exception of Double commander which I extensively tested only under Windows 10) and they worked without major issues.
 
 ### Autohotkey
-Or just AHK in short. This software makes Windows 100% more useful for me. It allows you to map and script your own hotkeys. For instance, this simple mapping will launch Cmder terminal when you press Ctrl + Alt + t
+Or just AHK in short. This software makes Windows much more useful. It allows you to map and script your own hotkeys. For instance, this simple mapping will launch Cmder terminal when you press Ctrl + Alt + t
 
     ; Launch terminal Ctrl + Alt + t
     
@@ -25,7 +25,7 @@ Installation of AHK requires admin rights but you don't need them for regular us
 
 ### Cmder 
 
-If you are used to GNU/Linux desktops you will most likely miss a good console in Windows. In that case, Cmder might come in handy. It gives you classic windows CMD shell upgraded with some goodies normally available in most Linux terminal emulators. One of the main advantages is nice command history and command completion thanks to the clink. There are some goodies from git bash console such as git, vim editor and some Linux commands that have a bit clunky alternatives on windows cmd like grep, ls, less and so on. You can also define your own aliases and add other executables such as python, fzf (great command line fuzzy search) and so on. Cmder is a fork of ConEmu so you can add any other consoles that you like and launch them from within Cmder. Keep in mind however that not all of them might work as smooth as in ConEmu, last Cmder version I have tried under Windows 10 ( v1.3.10) had a problem with mouse support in Far manager.
+If you are used to GNU/Linux desktops you will most likely miss a good console in Windows. In that case, Cmder might come in handy. It gives you classic windows CMD shell upgraded with some goodies normally available in Linux. One of the main advantages is nice command history and command completion thanks to the integrated clink. There are some applications from windows git bash console which is also integrated to Cmder by default. You can use commands like git, vim editor and some Linux commands that have a bit clunky alternatives on windows. Typical example would be grep, ls, less and so on. You can also define your own aliases and add other executables such as python, fzf (great command line fuzzy search) and so on. Cmder is a fork of ConEmu so you can add any other consoles that you like and launch them from within Cmder. 
 
 ![cmder-screen_article.jpg](https://cdn.steemitimages.com/DQmNdnjBdC2fTRm758mQcujtoZeZ5MZLExPGujeaNHEF486/cmder-screen_article.jpg)
 
