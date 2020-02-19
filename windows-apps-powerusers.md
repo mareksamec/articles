@@ -1,3 +1,6 @@
+*This article was originaly published on my steemit blog here: [https://steemit.com/windows/@marek.samec/app-tips-for-windows-power-users](https://steemit.com/windows/@marek.samec/app-tips-for-windows-power-users) 
+This is an updated version.*
+
 If you like your Windows workstation or you are forced to use Windows by your employer, here are some apps that can boost your productivity and effectiveness. Most of these tools are free and open source or at least have some type of free version available. I have tested these apps under Windows 7 and Windows 10 (with the exception of Double commander which I extensively tested only under Windows 10) and they worked without major issues.
 
 ### Autohotkey
@@ -25,7 +28,7 @@ Installation of AHK requires admin rights but you don't need them for regular us
 
 ### Cmder 
 
-If you are used to GNU/Linux desktops you will most likely miss a good console in Windows. In that case, Cmder might come in handy. It gives you classic windows CMD shell upgraded with some goodies normally available in Linux. One of the main advantages is nice command history and command completion thanks to the integrated clink. There are some applications from windows git bash console which is also integrated to Cmder by default. You can use commands like git, vim editor and some Linux commands that have a bit clunky alternatives on windows. Typical example would be grep, ls, less and so on. You can also define your own aliases and add other executables such as python, fzf (great command line fuzzy search) and so on. Cmder is a fork of ConEmu so you can add any other consoles that you like and launch them from within Cmder. 
+If you are used to GNU/Linux desktops you will most likely miss a good console in Windows. In that case, Cmder might come in handy. It gives you classic windows CMD shell upgraded with some goodies normally available in Linux. One of the main advantages is nice command history and command completion thanks to the integrated clink. There are some applications from windows git bash console which is also integrated to Cmder by default. You can use commands like git, vim editor and some Linux commands that have a bit clunky alternatives on windows cmd (ls, less, grep and so on). You can also define your own aliases and add other executables such as python, fzf (great command line fuzzy search) and so on. Cmder is a fork of ConEmu so you can add any other consoles that you like and launch them from within Cmder. I've tested it with putty, kitty, cygwin, babun and all worked fine. Just keep in mind that the keyboard shortucts of these consoles might collide with Cmder so you might need to do some tweaking here and there.
 
 ![cmder-screen_article.jpg](https://cdn.steemitimages.com/DQmNdnjBdC2fTRm758mQcujtoZeZ5MZLExPGujeaNHEF486/cmder-screen_article.jpg)
 
@@ -40,7 +43,7 @@ But personally, I still prefer to stare a few seconds on the cmd than open up th
 
 ### Total commander
 
-I think most of you have already heard about this program. The main feature is the twin pane view and some basic commands you can use to interact with the files and move them from one pane to the other. Although this setup might look a bit archaic, when you learn the shortcuts you'll become a king of the file management. There are people who use Windows only because there is no full-fledged Total Commander for Linux. Total Commander has integrated archiver, FTP client, great file comparing features and other tools. All this is very useful for power users who don't want to lose time by constantly clicking around in the windows explorer. You can fast edit text files by hitting F4, copy to the other pane by F5 or quickly create a new folder by F7. You can connect to the remote file system or FTP and very conveniently select and copy/upload files there. If you have never used any similar file manager before it might feel a bit uncomfortable but with practice, you can become very fast and effective. You can use it for free but you have to pass an intro window where you have to click on the right number to continue. Alternatively, you can purchase the license at https://www.ghisler.com/.
+I think most of you have already heard about this program. The main feature is the twin pane view and some basic commands you can use to interact with the files and move them from one pane to the other. Although this setup might look a bit archaic, when you learn the shortcuts you'll become a king of the file management. There are people who use Windows only because there is no full-fledged Total Commander for Linux. Total Commander has integrated archiver, FTP client, great file comparing features and other tools. All this is very useful for power users who don't want to lose time by constantly clicking around in the windows explorer. You can fast edit text files by hitting F4, copy to the other pane by F5 or quickly create a new folder by F7. You can connect to the remote file system or FTP and very conveniently select and copy/upload files there. If you have never used any similar file manager before it might feel a bit uncomfortable but with practice, you can become very fast and effective. Total commander can be used for free but you have to pass an intro window where you have to click on the right number to continue. Alternatively, you can purchase the license at https://www.ghisler.com/.
 
 ![totalcmd_article.jpg](https://cdn.steemitimages.com/DQmQaUpFKwJtzMgQJb4cRSyaFKQhtdxrjBEVHWz2groWPvh/totalcmd_article.jpg)
 
@@ -56,9 +59,9 @@ This browser is built by the people that were behind Opera in its early days and
 ![Vivaldi-screen_article.jpg](https://cdn.steemitimages.com/DQmaCNJdqxfCfQ3SxpZSwjwcnZfaV78xM851skhVZZrjCNu/Vivaldi-screen_article.jpg)
 *Vivaldi with dark theme and vertical tabs*
 
-That's it. I hope this article was helpful and will improve your experience while working under Windows. Do you have some other tips? Let me know or share them with others in the comments below.  
+That's it. I hope this article was helpful and will improve your experience while working under Windows. Do you have some other tips? Feel free to share them with others in the comments.  
 
 
 
 *Disclaimer: 
-I have used Windows for more than 20 years. Now I still use them for work (company policy). I am also an enthusiastic Linux user at home for more than 2 years now.*
+I have been Windows user for more than 20 years and I still use it at work ( I have to :-) ). I am also an enthusiastic Linux user for almost 3 years now.*
