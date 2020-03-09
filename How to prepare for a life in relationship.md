@@ -1,17 +1,28 @@
 How to prepare for a life in relationship
 ========================
-- Why is the topic important?
-- What I want to convey:
-    - What can you expect
-    - What are you (most likely) going to experience
-    - How do you think you can prepare?
-    - Calm you down a bit :-)
+
+
+### What I want to convey:
+- What can you expect
+- What are you (most likely) going to experience
+- How do you think you can prepare?
+- Calm you down a bit :-)
 - How is it like what is great, what is hard
 - Life in Marriage, how is it different from  other types of relationships
-- 
 
-### Why is the topic important? 
+### Why we believe this topic is important?
+- High divorce rate
+- Problems in relationships => General unhappiness, stress
+- Problems in the family lead to many other problems if left unsolved
+- According to some researches main contributing factor to crime, social problems, substance abuse etc.
 
+_Sources:_
+Sexton, T.L. (2017). Functional Family Therapy. In The Encyclopedia of Juvenile Delinquency and Justice (eds C.J. Schreck, M.J. Leiber, H.V. Miller and K. Welch). doi:10.1002/9781118524275.ejdj0073
+
+Raine A, Brennan P, Mednick B, Mednick SA. High Rates of Violence, Crime, Academic Problems, and Behavioral Problems in Males With Both Early Neuromotor Deficits and Unstable Family Environments. Arch Gen Psychiatry. 1996;53(6):544–549. doi:10.1001/archpsyc.1996.01830060090012
+
+Fagan, Patrick F. The real root causes of violent crime: The breakdown of marriage, family and community. Heritage Foundation, 1995.
+https://www.heritage.org/crime-and-justice/report/the-real-root-causes-violent-crime-the-breakdown-marriage-family-and?te=1&nl=paul-krugman&emc=edit_pk_20191217
 
 ### What is your expectation? 
 
