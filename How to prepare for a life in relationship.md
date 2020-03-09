@@ -34,16 +34,28 @@ Ask the audience
 
 _*Research example, expectation of young people*_
 
+### My story
+Ok so I was a student and I was thinking about following questions:
+- How is it like to be a parent?
+- How can I prepare for it?
+- What if I will not be a good parent?
+- How will relationship with my wife change, are we prepared for it?
 
+### What are your thoughts and questions?
+(ask the audience)
 
+### OK, so how do I (and other parents) feel right now?
+- I am 30, reaching 30 is not that bad as some people say.
+- You get a bit wiser
+- You did some of the stupid things in your teen years and 20s
+- You already get some experience
+- Glad even some (mature) people who are 50, 60 told me they would not want to go back
+- In a way life is easier, but there are new challenges
+- Less in control of your (free) time
 
-### OK, so how is life when you're 30 or above?
-I am 30, reaching 30 is not that bad as some people say.
-You get a bit wiser
-You did some of the stupid things in your teen years and 20s
-You already get some experience
-Glad even some (mature) people who are 50, 60 told me they would not want to go back
-In a way life is easier, but there are new challenges
+### Question
+How would you like to feel after X years of stable relationship?
+
 
 ### Gender and character differences
 Character - Japanese animal "horoscope" 
