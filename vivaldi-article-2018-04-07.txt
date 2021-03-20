@@ -30,3 +30,5 @@ If you don't type anything, Vivaldi will show you the list of the open tabs, you
 
 **Conclusion**
 That's it, there are other things that might be useful for you such as built-in notes or side Web Panels, but I don't want overload you with too many tips for the start. It's important to note that Vivaldi is still quite new so you might encounter some unexpected behavior or nasty little bugs. Even though they were a bit annoying at times, the productivity boost was worth it for me. However, what worked for me might not work for you. Give Vivaldi a try and let me know if it helped you to get the stuff done.
+
+Article is published under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

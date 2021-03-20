@@ -64,3 +64,5 @@ That's it. I hope this article was helpful and will improve your experience whil
 
 *Disclaimer: 
 I have been a Windows user for more than 20 years and I still use it at work ( I have to :-) ). I am also an enthusiastic Linux user for almost 3 years now.*
+
+Article is published under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

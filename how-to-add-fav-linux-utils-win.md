@@ -29,4 +29,5 @@ Step 2 is adding this path to your System or User environmental variables for Wi
 C:\windows\system32\rundll32.exe sysdm.cpl,EditEnvironmentVariables
 ```
 
+Article is published under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 

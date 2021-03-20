@@ -44,3 +44,5 @@ For fzf to work the windows TERM variable must not be set. It can be done by sim
 set TERM=
 ```
 Keep in mind that unsetting TERM variable can cause some issues, for instance if you connect to remote linux server via Cmder built in ssh. 
+
+Article is published under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

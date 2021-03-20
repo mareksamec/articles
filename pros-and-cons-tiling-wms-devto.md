@@ -47,3 +47,5 @@ If you feel limited by the traditional stacking window managers you can give til
 
 Some links for further reading/watching:
 Check [DistroTube](https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg), [Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA), [Brodie Robertson](https://www.youtube.com/user/OmegaDungeon), or Donald Feury for the start.
+
+Article is published under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

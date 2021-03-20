@@ -63,4 +63,6 @@ That's it. I hope this article was helpful and will improve your experience whil
 
 *I have used Windows for more than 20 years. Now I still use them for work (company policy). I am also an enthusiastic Linux user at home for more than 2 years now.*
 
+Article is published under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
 

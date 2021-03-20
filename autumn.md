@@ -25,7 +25,7 @@ I hope this short article gave you some inspiration.
 
 Photos are my own, if you want to use them please don't forget to include the source.
 
-
+Article is published under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 
 
