@@ -1,0 +1,32 @@
+
+## Get productive with Vivaldi browser
+People spend a lot of time with their browser these days, much more than 10 or 15 years ago. Many companies are building web apps instead of classic desktop apps because they can run on any computer without installation. If you use your browser on a daily basis you might want to check out the Vivaldi browser. This browser is backed by former Opera co-founder [Jon Stephenson von Tetzchne](https://en.wikipedia.org/wiki/Jon_Stephenson_von_Tetzchner "Jon Stephenson von Tetzchner") and its main goal is to give the power back to the users. I used mostly Chrome and sometimes Firefox but the transition to Vivaldi really helped to significantly improve my productivity. I use the web browser at work on a daily basis (around 70% of the apps that I use run in the browser) so it is important for me to pick the browser that helps me get the job done.
+In this article, I will share some features that allow me to do my work more efficiently and help me to avoid some boring and repetitive tasks as well. For me, the productivity is not only about doing as much as possible but also about avoiding unnecessary frustration and keeping the work flowing.
+
+**Custom color scheme**
+"Wait a color scheme? Is he serious?" You might think. I also rejected that idea in the past, but after some time I realized that if you spend 5+ hours a day looking on your browser it's GUI must not be distracting and the color scheme should not hurt your eyes. Vivaldi allows you to be very flexible with the color scheme setup. You can have the browser layout change its colors dynamically according to the tab content, our you can set up a fixed color scheme for all the tabs. And you can easily pick your own color and configure a custom color scheme.
+
+**Tab tiling**
+I simply love this feature. You can use it to tile selected tabs. I use this to compare two different customer configurations or when I need to rewrite stuff from one tab to another e.g. when some user sends me a screenshot with some numbers that I need to look up. You can use it to compare products on the e-shop or anything else. To tile tabs just hold Shift and select the tabs you want to tile. Then right-click on any of the tabs and click on "Tile x tabs". X will be replaced by the number of the tabs you have selected. To untile the tabs, right-click on any of the tiled tabs and select "untile selection".
+
+**Custom search engines**
+This feature really saves my time and nerves. I search all kinds of number IDs quite often and to do that I have to set the date range and some other things before I hit search. If the app that you are using sends the search query in the URL, you can easily create your own search for Vivaldi and assign a custom shortcut. For instance, I have created a custom search for Steem that allows me to search Steem articles directly from my address bar. I just type **steem** *anything I want to search*, hit Enter and voila, the list of articles pops up. To set it up go to Settings -> Search. There click the + and fill in the Name for your search a Nickname (that's what you'll type in the address bar followed by a space to switch to your custom search) and add a search URL where you replace the search keyword by the %s or %S. You can just try to run a search in the web app you use and see how the URL changes. This is a sample URL query for the Steemit for the keyword "linux":
+https://steemit.com/static/search.html?q=linux
+
+So here we will just replace linux in the end with %s and add it to the URL field like this:
+https://steemit.com/static/search.html?q=%s
+Hit Save and you can try your custom search right away. Please note that some apps might send the search request in the background or in the frame so it might be impossible or quite hard to get the search query. Some web pages might also generate very very long search queries so you might need to use search and replace function in your favorite text editor to put the %s or %S in the right place.
+
+**Google Chrome plugins**
+Yes, you got that right, you can use your favorite Google Chrome plugins on Vivaldi. That's because Vivaldi is built on Chromium core with all its goodies (and baddies too :-)). Just open the Google Chrome web store and install the plugin you need. Most of the plugins I needed worked, but you might encounter some glitches here and there. That's because Vivaldi has some differences from Chrome browser. I suggest you try uBlock for ad blocking or Vimium if you are a vim user and want to control your browser with a keyboard. But you might not need that because ... well, the next feature(s):
+
+**Customizable shortcuts**
+That's another thing I love about Vivaldi. You can customize almost any shortcut in the Settings. For instance, I like to set up Ctrl+q to duplicate the tab which I have currently open.
+
+**Quick commands**
+If you forget your shortcuts, just hit F2 and type what you want to do. The Vivaldi will search the search the settings and will attempt to hint you with the shortcut and offer you a list of possible actions in a drop-down list. Here is the list for 'close':
+
+If you don't type anything, Vivaldi will show you the list of the open tabs, you can use keyboard arrows to select the tab you want.
+
+**Conclusion**
+That's it, there are other things that might be useful for you such as built-in notes or side Web Panels, but I don't want overload you with too many tips for the start. It's important to note that Vivaldi is still quite new so you might encounter some unexpected behavior or nasty little bugs. Even though they were a bit annoying at times, the productivity boost was worth it for me. However, what worked for me might not work for you. Give Vivaldi a try and let me know if it helped you to get the stuff done.

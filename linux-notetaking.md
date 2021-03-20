@@ -1,2 +1,0 @@
-# Linux note taking application
-
